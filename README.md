@@ -16,4 +16,4 @@
 1. clone this repo
 2. open keybr.com
 3. click on the theme button
-<img src="step2.png">
+<img src="https://github.com/randomintegers/catppuccin-keybr/blob/main/assets/step2.png">
