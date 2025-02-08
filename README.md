@@ -15,4 +15,5 @@
 # Usage
 1. clone this repo
 2. open keybr.com
-3. 
+3. click on the theme button
+<img src="step2.png">
